@@ -1,0 +1,40 @@
+.not{
+  border:2px solid black;
+  width: 250px;
+  height: 250px;
+  background-color: #222f3e;
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.app{
+
+  min-height: 100vh;
+  background-color: #8395af;
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.bardak0{
+  color:#fff;
+  font-size:40px;
+}
+
+.bardak1{
+  color:#00f;
+  font-size:40px;
+}
+
+.bardak2{
+  color:#00a;
+  font-size:40px;
+}
+
+.bardak3{
+  color:#005;
+  font-size:40px;
+}
